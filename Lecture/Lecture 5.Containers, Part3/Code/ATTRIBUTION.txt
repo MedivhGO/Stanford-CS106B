@@ -1,0 +1,2 @@
+EnglishWords.txt is taken from ENABLE, the "Enhanced North American Benchmark Lexicon,"
+with manual additions of the words a, I, and O, which weren't present there.

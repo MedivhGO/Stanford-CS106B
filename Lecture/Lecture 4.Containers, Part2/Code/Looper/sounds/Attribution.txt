@@ -1,0 +1,15 @@
+Sound files were taken from the University of Iowa:
+
+    http://theremin.music.uiowa.edu/MISpiano.html
+    
+These files were converted to .wav format, trimmed in length, and
+edited to remove leading silence.
+
+Clap.wav sound effect taken from
+
+    http://dight310.byu.edu/media/audio/FreeLoops.com/1/1/909%20Clap%2002-5817-Free-Loops.com.mp3
+    
+and converted to a .wav file.
+
+Silence.wav sound effect was formed by taking a .wav file and
+truncating it to zero seconds.

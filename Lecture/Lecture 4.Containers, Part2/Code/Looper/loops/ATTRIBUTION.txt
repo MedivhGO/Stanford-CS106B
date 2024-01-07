@@ -1,0 +1,4 @@
+All .loop files hastily cobbled together by Keith Schwarz.
+
+Want to add a loop for the next iteration of CS106B? Create
+your own .loop file and send it to me!

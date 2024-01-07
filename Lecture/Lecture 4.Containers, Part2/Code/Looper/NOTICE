@@ -1,0 +1,14 @@
+Hello Wonderful CS106Bers!
+
+Unfortunately, it seems like a recent update to Qt Creator has broken the ability of
+Qt Creator to play sounds. I managed to hack around this in lecture by writing C++
+code that used an auxiliary library I have installed on my machine to play sounds.
+However, since I'm using a Linux system, I don't think that solution will work
+on other operating systems. As a result, this version of the looper just prints
+out which notes it would play, rather than actually playing them. :-(
+
+If I can find a fix for this, I'll update these starter files.
+
+Sorry about that!
+
+-Keith
