@@ -16,4 +16,4 @@
 
 ## Reference
 
-- [CS106B-X-CS106L](https://github.com/akun0311/CS106B-X-CS106L-)
+[CS106B-X-CS106L](https://github.com/akun0311/CS106B-X-CS106L-)
